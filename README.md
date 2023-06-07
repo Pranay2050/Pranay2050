@@ -6,9 +6,7 @@
   <img src="https://streak-stats.demolab.com?user=Pranay2050&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br/>
-<img src="https://raw.githubusercontent.com/Pranay2050/Pranay2050/output/snake.svg" alt="Snake animation" />
 
-###
 # Joke of The Day!
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
 <!--
