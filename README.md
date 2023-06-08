@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pranay2050.Pranay2050&left_color=darkslateblue&right_color=deeppink"  />
 <p>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BE3571&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9EEDE8&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
 </p>
 
 <p align="center">
