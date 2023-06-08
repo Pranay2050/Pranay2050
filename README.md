@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pranay2050.Pranay2050&left_color=darkslateblue&right_color=deeppink"  />
 <p>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=82ACF9&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BE3571&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/quiet-node">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=82ACF9&center=true&vCenter=true&width=600&lines=Machine-Learning+Engineer;Enthusiastic+about+AI+%7C+Deep+Learning;Always+learning+new+things;Computer+Vision+%7C+NLP+%7C+Data+Science+%7C+More" /></a>
+  <a href="https://github.com/Pranay2050">
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=E4C744&center=true&vCenter=true&width=600&lines=Machine-Learning+Engineer;Enthusiastic+about+AI+%7C+Deep+Learning;Always+learning+new+things;Computer+Vision+%7C+NLP+%7C+Data+Science+%7C+More" /></a>
 </p>
 
 ## GIT Stats
