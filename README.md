@@ -1,17 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pranay2050.Pranay2050&left_color=darkslateblue&right_color=deeppink"  />
 <p>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9EEDE8&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
+    <source
+      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50"
+      media="(prefers-color-scheme: light)"
+    />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Pranay2050">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=E4C744&center=true&vCenter=true&width=600&lines=Machine-Learning+Engineer;Enthusiastic+about+AI+%7C+Deep+Learning;Always+learning+new+things;Computer+Vision+%7C+NLP+%7C+Data+Science+%7C+More" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Machine-Learning+Engineer;Enthusiastic+about+AI+%7C+Deep+Learning;Always+learning+new+things;Computer+Vision+%7C+NLP+%7C+Data+Science+%7C+More" /></a>
 </p>
 
 ## GIT Stats
 </br>
 <div align="center">
-  <img src="https://github-readme-stats-flax-sigma-25.vercel.app/api?username=Pranay2050&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-flax-sigma-25.vercel.app/api?username=Pranay2050&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=True&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-flax-sigma-25.vercel.app/api/top-langs?username=Pranay2050&locale=en&hide_title=false&layout=compact&langs_count=5&theme=radical&hide_border=true&order=2&size_weight=0.3&count_weight=0.7" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Pranay2050&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
