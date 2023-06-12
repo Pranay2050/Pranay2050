@@ -1,14 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pranay2050.Pranay2050&left_color=darkslateblue&right_color=deeppink"  />
 <p>
+  <picture>
     <source
-      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50"
+      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋...+it's+Pranay+:)&fontSize=30&height=50"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50"
+      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Howdy+👋...+it's+Pranay+:)&fontSize=30&height=50"
       media="(prefers-color-scheme: light)"
     />
-    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋,+it's+Pranay+:)&fontSize=30&height=50" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋...+it's+Pranay+:)&fontSize=30&height=50" />
+  </picture>
 </p>
 
 <p align="center">
