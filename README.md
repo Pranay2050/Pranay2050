@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pranay2050.Pranay2050&left_color=darkslateblue&right_color=deeppink"  />
 <p>
   <picture>
     <source
